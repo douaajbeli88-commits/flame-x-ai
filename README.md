@@ -13,7 +13,7 @@ Détecter rapidement une zone enflammée dans un espace ouvert (usine, entrepôt
 - flame-x-ai.zip : code et fichiers du projet
 
 ## Équipe
-Projet d'innovation réalisé par [Powerpuff girls].
+Projet d'innovation réalisé par Powerpuff girls.
 
 ## Contact
-[douajbeli88@gmail.com]
+douajbeli88@gmail.com
